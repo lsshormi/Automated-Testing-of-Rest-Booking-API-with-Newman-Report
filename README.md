@@ -240,7 +240,12 @@ newman run LS_Shormi_SQA.postman_collection.json -e LS_Shormi_SQA.postman_enviro
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary]()
-![Newman Report Summary]()
-![image]()
-![Newman Report Summary]()
+![image](https://github.com/user-attachments/assets/2070a7c9-44b3-4270-a840-9486fb06ed5c)
+![image](https://github.com/user-attachments/assets/4c6acfd9-f3bb-47d4-8d2f-3608877408f2)
+![image](https://github.com/user-attachments/assets/caa09d2a-7a42-4c35-b70a-caaec96e7729)
+![image](https://github.com/user-attachments/assets/1b5ccd40-5835-4cbd-8c9d-9d8167d24aa3)
+
+
+
+
+
